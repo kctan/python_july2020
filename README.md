@@ -3,10 +3,13 @@
 Course materials are contained in this repository
 
 Scratch pad for the course:
+
 https://www.codepile.net/pile/PythonDay1
+
 https://www.codepile.net/pile/PythonDay1-Help
 
 https://www.codepile.net/pile/PythonDay2
+
 https://www.codepile.net/pile/PythonDay2-Help
 
 

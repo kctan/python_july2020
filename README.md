@@ -1,4 +1,4 @@
-# Introductory Programming Using Python (Jun 2020)
+# Introductory Programming Using Python (July 2020)
 
 ## Python (download version specific to your OS) 
 https://www.python.org/downloads/
